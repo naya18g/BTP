@@ -1,0 +1,3 @@
+[submodule "PersonReID"]
+	path = PersonReID
+	url = https://github.com/VarunBhardwaj03/BTP.git
